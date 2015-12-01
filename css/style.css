@@ -51,7 +51,7 @@ ul { margin: 0; }
   width: 100%;
   height: 100%;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: url('../images/robotic-arms.gif') center center no-repeat #12ADE6;
+  background: url('../images/rubiks.gif') center center no-repeat #FFF;
   background-size: 60% 80%;
   z-index: 1000000;
 }
@@ -354,7 +354,7 @@ footer .row { height: 100%; }
 	  width: 100%;
 	  height: 100%;
 	  top: 0; left: 0; right: 0; bottom: 0;
-	  background: url('../images/robotic-arms.gif') center center no-repeat #12ADE6;
+	  background: url('../images/rubiks.jpg') center center no-repeat #FFF;
 	  background-size: 800px;
 	  z-index: 10000;
 	}
@@ -381,7 +381,7 @@ footer .row { height: 100%; }
 	  width: 100%;
 	  height: 100%;
 	  top: 0; left: 0; right: 0; bottom: 0;
-	  background: url('../images/robotic-arms.gif') center center no-repeat #12ADE6;
+	  background: url('../images/rubiks.jpg') center center no-repeat #FFF;
 	  background-size: 992px;
   	z-index: 10000;
 	}
@@ -413,7 +413,7 @@ footer .row { height: 100%; }
 	  width: 100%;
 	  height: 100%;
 	  top: 0; left: 0; right: 0; bottom: 0;
-	  background: url('../images/robotic-arms.gif') center center no-repeat #12ADE6;
+	  background: url('../images/rubiks.jpg') center center no-repeat #FFF;
 	  background-size: 768px;
 	  z-index: 10000;
 	}
@@ -448,7 +448,7 @@ footer .row { height: 100%; }
 	  width: 100%;
 	  height: 100%;
 	  top: 0; left: 0; right: 0; bottom: 0;
-	  background: url('../images/robotic-arms.gif') center center no-repeat #12ADE6;
+	  background: url('../images/rubiks.jpg') center center no-repeat #FFF;
 	  background-size: 767px;
 	  z-index: 10000;
 	}
@@ -487,7 +487,7 @@ footer .row { height: 100%; }
 	  width: 100%;
 	  height: 100%;
 	  top: 0; left: 0; right: 0; bottom: 0;
-	  background: url('../images/robotic-arms.gif') center center no-repeat #12ADE6;
+	  background: url('../images/rubiks.jpg') center center no-repeat #FFF;
 	  background-size: 480px;
 	  z-index: 10000;
 	}
